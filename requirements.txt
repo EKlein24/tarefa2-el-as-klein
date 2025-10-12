@@ -1,0 +1,5 @@
+# Lista de dependencias para o proxecto
+# O profesor poderá instalar todos os paquetes necesarios executando
+#   pip install -r requirements.txt
+
+Faker>=19.0

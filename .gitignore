@@ -1,0 +1,10 @@
+# Ignore contorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+.DS_Store
